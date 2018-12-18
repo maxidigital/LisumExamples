@@ -1,0 +1,16 @@
+***Starting server on port 9100 ***
+Loading net-file from 'D:\SUMO\sampleSimulation\net.net.xml'... done (5ms).
+Loading additional-files from 'D:\SUMO\sampleSimulation\detector.det.add.xml'... done (8ms).
+Loading done.
+Simulation started with time: 0.00
+Performance: 
+ Duration: 52060ms
+ Real time factor: 70.9182
+ UPS: 2466.269689
+Vehicles: 
+ Inserted: 1801
+ Running: 0
+ Waiting: 0
+
+DijkstraRouterTT answered 3816 queries and explored 3.49 edges on average.
+DijkstraRouterTT spent 3ms answering queries (0.00ms on average).
